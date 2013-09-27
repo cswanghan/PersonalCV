@@ -1,5 +1,5 @@
 王函
-----
+====
 E-mail: cswanghan@gmail.com / noswanghan@163.com
 （硕士 /25 岁/在职）
 
@@ -17,11 +17,11 @@ E-mail: cswanghan@gmail.com / noswanghan@163.com
 
 语言水平
 -------
-英语-精通
+英语__精通__
 
 教育经历
 --------
-    ####2010.8-2012.6
+    2010.8-2012.6
     在校经历：
         East Stroudsburg of University of Pennsylvania（宾夕法尼亚州东斯特劳斯堡大学）
         计算机科学与技术专业
