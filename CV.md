@@ -13,16 +13,15 @@ E-mail: cswanghan@gmail.com / noswanghan@163.com
 
 个人技能
 --------
-    专业能力: 熟悉常见的分类算法，例如决策树，逻辑回归，朴素贝叶斯等，了解常见的聚类算法。并且有两年的开发和应用
-    经验。熟悉 Linux 系统命令和常见 shell 脚本，熟练应用 C/C++，Java 等开发语言，熟练使用 SQL 语句。熟悉 Hadoop,
-    Hive, mahout。熟练应用 Excel 各种公式。
+    专业能力: 熟悉常见的分类算法，例如决策树，逻辑回归，朴素贝叶斯等，了解常见的聚类算法。并且有两年的开发和应用经验。熟悉 Linux 系统命令和常见 shell 脚本，熟练应用 C/C++，Java 等开发语言，熟练使用 SQL 语句。熟悉 Hadoop,Hive, mahout。熟练应用 Excel 各种公式。
 
 语言水平
 -------
 英语-精通
 
 教育经历
-    2010.8-2012.6
+--------
+    ####2010.8-2012.6
     在校经历：
         East Stroudsburg of University of Pennsylvania（宾夕法尼亚州东斯特劳斯堡大学）
         计算机科学与技术专业
