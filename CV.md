@@ -17,9 +17,9 @@ E-mail: cswanghan@gmail.com / noswanghan@163.com
     并且有两年的开发和应用经验。熟悉 Linux 系统命令和常见 shell 脚本。熟悉Java ，熟练使用 SQL 语句。
     熟悉 Hadoop, Hive, mahout。熟练应用 Excel 各种公式。
 
-语言水平
+### 语言水平
 -------
-英语_精通_
+*英语_精通_
 
 教育经历
 --------
