@@ -1,6 +1,6 @@
 王函
 ====
-E-mail: cswanghan@gmail.com / noswanghan@163.com
+E-mail: cswanghan#gmail.com / noswanghan#163.com
 （硕士 /25 岁/在职）
 
 专业方向
